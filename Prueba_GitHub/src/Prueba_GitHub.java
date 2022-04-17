@@ -6,6 +6,7 @@ public class Prueba_GitHub {
 
 		
 		System.out.println("Repositorio GitHub");
+		System.out.println("Repositorio GitHub segunda versión");
 	}
 
 }
